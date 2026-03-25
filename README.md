@@ -3,7 +3,7 @@
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fzahidbrahimli%2FVidMetrics)
 
-*👉 **Demo Link:** [Insert Vercel URL Here]*
+*👉 **Demo Link:** https://vidmetrics.vercel.app*
 *👉 **Loom Walkthrough:** [Insert Loom URL Here]*
 
 ## Overview
