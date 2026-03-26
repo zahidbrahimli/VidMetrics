@@ -5,6 +5,7 @@
 
 *👉 **Demo Link:** https://vidmetrics.vercel.app*
 *👉 **Loom Walkthrough:** https://www.loom.com/share/d7787940152843c8aad0bd08811a0538*
+*👉 **Written Submission:** https://www.notion.so/Vibe-Coder-Challenge-Written-Submission-32f90f916c1f8016a2b7d89e13ad1646?source=copy_link*
 
 ## Overview
 VidMetrics is a clean, demo-ready SaaS MVP that allows enterprise creators and agencies to instantly analyze competitor YouTube channels without leaving the platform. 
