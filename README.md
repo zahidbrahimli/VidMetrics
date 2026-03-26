@@ -4,7 +4,7 @@
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fzahidbrahimli%2FVidMetrics)
 
 *👉 **Demo Link:** https://vidmetrics.vercel.app*
-*👉 **Loom Walkthrough:** [Insert Loom URL Here]*
+*👉 **Loom Walkthrough:** https://www.loom.com/share/d7787940152843c8aad0bd08811a0538*
 
 ## Overview
 VidMetrics is a clean, demo-ready SaaS MVP that allows enterprise creators and agencies to instantly analyze competitor YouTube channels without leaving the platform. 
